@@ -1,1 +1,1 @@
-# YS_LinkGenerator
+Shopify link creator YS
